@@ -1,0 +1,12 @@
+C:\Users\Serap\Desktop\nesne\proje\agaclaCoz\agaclaCoz\bin\Debug\agaclaCoz.exe.config
+C:\Users\Serap\Desktop\nesne\proje\agaclaCoz\agaclaCoz\bin\Debug\agaclaCoz.exe
+C:\Users\Serap\Desktop\nesne\proje\agaclaCoz\agaclaCoz\bin\Debug\agaclaCoz.pdb
+C:\Users\Serap\Desktop\nesne\proje\agaclaCoz\agaclaCoz\obj\Debug\agaclaCoz.csprojResolveAssemblyReference.cache
+C:\Users\Serap\Desktop\nesne\proje\agaclaCoz\agaclaCoz\obj\Debug\agaclaCoz.Form1.resources
+C:\Users\Serap\Desktop\nesne\proje\agaclaCoz\agaclaCoz\obj\Debug\agaclaCoz.Properties.Resources.resources
+C:\Users\Serap\Desktop\nesne\proje\agaclaCoz\agaclaCoz\obj\Debug\agaclaCoz.csproj.GenerateResource.Cache
+C:\Users\Serap\Desktop\nesne\proje\agaclaCoz\agaclaCoz\obj\Debug\agaclaCoz.exe
+C:\Users\Serap\Desktop\nesne\proje\agaclaCoz\agaclaCoz\obj\Debug\agaclaCoz.pdb
+C:\Users\Serap\Desktop\agaclaCoz\agaclaCoz\bin\Debug\agaclaCoz.exe.config
+C:\Users\Serap\Desktop\agaclaCoz\agaclaCoz\obj\Debug\agaclaCoz.exe
+C:\Users\Serap\Desktop\agaclaCoz\agaclaCoz\obj\Debug\agaclaCoz.pdb
